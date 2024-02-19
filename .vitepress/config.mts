@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "2024你好",
-  base: "/dosc",
+  base: "/dosc/",
   description: "A VitePress Site",
   themeConfig: {
     search: {
